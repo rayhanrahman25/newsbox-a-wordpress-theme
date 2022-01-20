@@ -1,0 +1,1 @@
+# newsbox-a-wordpress-theme
